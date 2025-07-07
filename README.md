@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Kabir Chand</h1>
 
 <p align="center">
-🔐 Aspiring Cybersecurity Professional | 💻 Web Dev Intern @ Motion Cut | 🧠 Always Learning  
+🔐 Aspiring Cybersecurity Professional | 🧠 Always Learning  
 </p>
 
 ---
