@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Kabir Chand</h1>
 
 <p align="center">
-🔐 Aspiring Cybersecurity Professional | 🧠 Always Learning  
+🔐 Aspiring Cybersecurity Professional | 💻 Web Dev Intern @ Motion Cut | 🧠 Always Learning  
 </p>
 
 ---
@@ -40,36 +40,12 @@
 ## 🚀 Current Projects
 
 - 🔍 **Web Vulnerability Scanner** – CLI + Flask version with PDF output  
-- 🛡️ **Malware Detection Script** – Basic static & behavioral scanner  
-- 📊 **SOC Simulation Lab** – Log ingestion + threat use cases  
-- 🌐 **Cybersecurity Portfolio Website** – Responsive, animated & secure
+- 🛡️ **Malware Detection Script** –  coming soon**
+- 📊 **SOC Simulation Lab** – coming soon**
+- 🌐 **Cybersecurity Portfolio Website** – coming soon**
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kabirchand&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabirchand&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kabirchand&theme=radical&no-frame=true&margin-w=10" />
-</p>
-
----
-
-## 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kabirchand/kabirchand/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
 
 ## 📫 Let's Connect
 
