@@ -9,7 +9,7 @@
 ## 🧭 About Me
 
 🎓 Final-year B.Tech student  
-🛡️ Passionate about Blue Team Ops, SOC Analysis & Threat Hunting  
+🛡️ Passionate about Red team Ops,Blue Team Ops, SOC Analysis & Threat Hunting  
 🔍 Exploring Web Security, Malware Detection, and SIEM Tools  
 📄 Building projects that combine code + cybersecurity  
 
