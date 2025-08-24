@@ -20,6 +20,18 @@
 📄 Building projects that combine code + cybersecurity  
 
 ---
+---
+## 🏅 Certifications
+
+<p align="center">
+  <a href="https://www.credly.com/badges/15f86c9b-42c4-4fd8-b555-2fcc3de9c6fb/public_url">
+    <img src="https://images.credly.com/size/200x200/yourbadge.png" width="100" height="100" alt="Badge Name"/>
+  </a>
+</p>
+
+
+
+---
 
 ## 🛠️ Tech Stack
 
