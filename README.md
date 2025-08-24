@@ -7,7 +7,7 @@
 ---
 <!-- Animated GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
+  <img src="https://images.credly.com/size/110x110/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png"> 
 </p>
 
 ---
@@ -18,18 +18,6 @@
 🛡️ Passionate about Red team Ops,Blue Team Ops, SOC Analysis & Threat Hunting  
 🔍 Exploring Web Security, Malware Detection, and SIEM Tools  
 📄 Building projects that combine code + cybersecurity  
-
----
----
-## 🏅 Certifications
-
-<p align="center">
-  <a href="https://www.credly.com/badges/15f86c9b-42c4-4fd8-b555-2fcc3de9c6fb/public_url">
-    <img src="https://images.credly.com/size/200x200/yourbadge.png" width="100" height="100" alt="Badge Name"/>
-  </a>
-</p>
-
-
 
 ---
 
