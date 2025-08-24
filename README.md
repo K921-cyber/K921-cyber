@@ -16,7 +16,6 @@
 
 ---
 ## 🏅 Certifications
-
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="5">
     <a href="https://www.credly.com/earner/earned/badge/4eae526e-2aad-42ba-bc47-aef114dc4a50">
@@ -24,9 +23,6 @@
     </a>
     <a href="https://www.credly.com/earner/earned/badge/15f86c9b-42c4-4fd8-b555-2fcc3de9c6fb">
       <img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png"/>
-    </a>
-    <a href="https://www.credly.com/badges/badge3-id/public_url">
-      <img src="https://images.credly.com/size/110x110/badge3.png" height="100"/>
     </a>
   </marquee>
 </p>
