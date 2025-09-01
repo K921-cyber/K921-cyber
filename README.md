@@ -54,6 +54,11 @@
 ## 🏅 Certifications
 
 Check out all my certifications in this [Certifications Repository](https://github.com/K921-cyber/CyberSecurity-Certifications).
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="5">
+    <a href="https://github.com/K921-cyber/CyberSecurity-Certifications">
+      <img src="[giphy](https://github.com/user-attachments/assets/0f20e177-673f-4b7c-8dd7-901735738ace)">
+      </a>
 
 ---
 ## 🚀 Current Projects
