@@ -55,10 +55,10 @@
 
 Check out all my certifications in this [Certifications Repository](https://github.com/K921-cyber/CyberSecurity-Certifications).
 <p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="5">
-    <a href="https://github.com/K921-cyber/CyberSecurity-Certifications">
-      <img src="[giphy](https://github.com/user-attachments/assets/0f20e177-673f-4b7c-8dd7-901735738ace)">
-      </a>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyN2Y2ZDJvdDIyY3E2anJxdGxnOWE1NzY0NjRmamc2dGJkeGJuM3E3ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nCRkXBaeCPyeX1fkrc/giphy.gif" width="200" alt="Coding GIF">
+   <img src="https://cdn.dribbble.com/userupload/19971497/file/original-6497b51a91a9dfeac86851f1a45d755c.gif" align="left" width="200" alt="Coding GIF">
+   <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyaTd2YzJ6NHRtZWZ2Z2twbTEydTVncWJmZDBndzE2YWZnaW1tczExbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZYWcXnDYHLSJYJ32Y8/200w.gif" width="200" alt="Coding GIF">
+</p>
 
 ---
 ## 🚀 Current Projects
