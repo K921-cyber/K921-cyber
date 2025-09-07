@@ -19,6 +19,8 @@
 
 ---
 ## 🏅 Certifications
+Check out all my certifications in this [Certifications Repository](https://github.com/K921-cyber/CyberSecurity-Certifications).
+
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="5">
     <a href="https://www.credly.com/earner/earned/badge/4eae526e-2aad-42ba-bc47-aef114dc4a50">
@@ -54,15 +56,8 @@
 [![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/Download)
 [![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/wiki/Downloads)
 
-## 🏅 Certifications
 
-Check out all my certifications in this [Certifications Repository](https://github.com/K921-cyber/CyberSecurity-Certifications).
-<p align="center">
 
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyaTd2YzJ6NHRtZWZ2Z2twbTEydTVncWJmZDBndzE2YWZnaW1tczExbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZYWcXnDYHLSJYJ32Y8/200w.gif" width="200" alt="Coding GIF">
-</p>
-
----
 ## 🚀 Current Projects
 
 - 🔍 **Web Vulnerability Scanner** – CLI + Flask version with PDF output  
