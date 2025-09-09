@@ -61,7 +61,6 @@ Check out all my certifications in this [Certifications Repository](https://gith
 ## 🚀 Current Projects
 
 - 🔍 **Web Vulnerability Scanner** – CLI + Flask version with PDF output  
-- 🛡️ **Malware Detection Script** –  coming soon**
 - 📊 **SOC Simulation Lab** – coming soon**
 - 🌐 **Cybersecurity Portfolio Website** – coming soon**
 
