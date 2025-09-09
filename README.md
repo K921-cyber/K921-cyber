@@ -62,7 +62,6 @@ Check out all my certifications in this [Certifications Repository](https://gith
 
 - 🔍 **Web Vulnerability Scanner** – CLI + Flask version with PDF output  
 - 📊 **SOC Simulation Lab** – coming soon**
-- 🌐 **Cybersecurity Portfolio Website** – coming soon**
 
 ---
 
