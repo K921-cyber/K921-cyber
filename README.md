@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=22&duration=2000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=700&lines=root@K921-cyber:~$+whoami;Cybersecurity+Student+%26+Researcher;root@K921-cyber:~$+ls;RedTeam+BlueTeam+SOC+ThreatHunting;root@K921-cyber:~$+exit" />
 </p>
 
-
 ---
 
 ## 🧭 About Me
