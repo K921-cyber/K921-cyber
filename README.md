@@ -7,14 +7,6 @@
 </p>
 
 
-
-<p align="center">
-</p>
-<p align="center">
-  
-  <img src="https://i.pinimg.com/originals/80/ab/46/80ab46ce3e991da1596d8358f459d587.gif" alt="coding GIF">
-</p>
-
 ---
 
 ## 🧭 About Me
