@@ -83,7 +83,7 @@ Check out all my certifications in this [Certifications Repository](https://gith
 ## 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://github.com/KabirChand/KabirChand/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/K921-cyber/K921-cyber/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 
