@@ -1,5 +1,5 @@
-<h1 align="center">Hey 👋, I'm Kabir Chand</h1>
-<align ="center"> <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FF00&width=500&lines=Cybersecurity+Enthusiast;Red+Team+Ops;Blue+Team+Ops;Threat+Hunter" />
+<h1 align="center">Hey 👋, I'm Kabir Chand </h1>
+<img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FF00&width=500&lines=Cybersecurity+Enthusiast;Red+Team+Ops;Blue+Team+Ops;Threat+Hunter" />
 
 <p align="center">
 🔐 Aspiring Cybersecurity Professional | 🧠 Always Learning  
@@ -12,7 +12,6 @@
 ---
 
 ## 🧭 About Me
-![Matrix](https://i.gifer.com/origin/7d/7d96ef9b23604f3dcbf6c01d4611a7bb_w200.gif)
 
 
 🎓 Final-year B.Tech student  
@@ -69,6 +68,7 @@ Check out all my certifications in this [Certifications Repository](https://gith
 ---
 
 
+
 ## 📫 Let's Connect
 
 - 📧 Email: [kabirchand31@gmail.com](mailto:kabirchand31@gmail.com)  
@@ -78,3 +78,15 @@ Check out all my certifications in this [Certifications Repository](https://gith
 ---
 
 <h3 align="center">*"Security is not a product, it's a process."* </h3>
+
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://github.com/KabirChand/KabirChand/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+
+
+
+
