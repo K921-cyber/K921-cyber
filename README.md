@@ -1,8 +1,14 @@
-<h1 align="center">Hey 👋, I'm Kabir Chand </h1>
-<img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FF00&width=500&lines=Cybersecurity+Enthusiast;Red+Team+Ops;Blue+Team+Ops;Threat+Hunter" />
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=KABIR%20CHAND&width=800&height=150" />
+</p>
 
 <p align="center">
-🔐 Aspiring Cybersecurity Professional | 🧠 Always Learning  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=22&duration=2000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=700&lines=root@K921-cyber:~$+whoami;Cybersecurity+Student+%26+Researcher;root@K921-cyber:~$+ls;RedTeam+BlueTeam+SOC+ThreatHunting;root@K921-cyber:~$+exit" />
+</p>
+
+
+
+<p align="center">
 </p>
 <p align="center">
   
@@ -18,6 +24,7 @@
 🛡️ Passionate about Red team Ops,Blue Team Ops, SOC Analysis & Threat Hunting  
 🔍 Exploring Web Security, Malware Detection, and SIEM Tools  
 📄 Building projects that combine code + cybersecurity  
+
 
 ---
 ## 🏅 Certifications
