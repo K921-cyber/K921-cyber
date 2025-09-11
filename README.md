@@ -1,4 +1,5 @@
 <h1 align="center">Hey 👋, I'm Kabir Chand</h1>
+<align ="center"> <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FF00&width=500&lines=Cybersecurity+Enthusiast;Red+Team+Ops;Blue+Team+Ops;Threat+Hunter" />
 
 <p align="center">
 🔐 Aspiring Cybersecurity Professional | 🧠 Always Learning  
@@ -11,6 +12,8 @@
 ---
 
 ## 🧭 About Me
+![Matrix](https://i.gifer.com/origin/7d/7d96ef9b23604f3dcbf6c01d4611a7bb_w200.gif)
+
 
 🎓 Final-year B.Tech student  
 🛡️ Passionate about Red team Ops,Blue Team Ops, SOC Analysis & Threat Hunting  
