@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://svg-banners.vercel.app/api?type=glitch&text1=KABIR%20CHAND&width=800&height=150&theme=cyberpunk" />
-
+</p>
 
 <br>
 
