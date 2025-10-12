@@ -122,3 +122,9 @@
 ---
 
 > `> echo "Persistence > Perfection" >> ~/.bashrc`
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:39FF14&height=100&section=footer&text=Secure+the+System,+Protect+the+Patient!&fontColor=ffffff&fontSize=18" />
+</p>
