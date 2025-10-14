@@ -13,8 +13,8 @@
 ---
 
 ## 🧬 // SYSTEM STATUS: ONLINE
-
-
+> *"Security is not a product — it’s a continuous state of paranoia."*  
+> — *Adapted from Bruce Schneier*
 
 🎓 **Final-Year B.Tech Cybersecurity Student**  
 🛡️ **Red Team Enthusiast | Blue Team Defender | SOC Analyst | Threat Hunter**  
