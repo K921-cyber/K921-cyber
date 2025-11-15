@@ -77,11 +77,11 @@
   → CLI + Flask interface | PDF/JSON export | OWASP Top 10 focused  
   → *Repo coming Q2 2025*
 
-- 🧪 **SOC Simulation Lab (v0.2)**  
+- 🧪 **SOC Simulation Lab (v0.2)**  (upcoming)
   → ELK Stack + Suricata + Zeek + TheHive  
   → Simulated enterprise environment for IR training
 
-- 🐍 **Malware Behavior Tracker**  
+- 🐍 **Malware Behavior Tracker**  (upcoming)
   → Python-based sandbox monitor | YARA + VirusTotal API integration  
   → *WIP – check commits for progress*
 
