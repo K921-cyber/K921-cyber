@@ -18,7 +18,7 @@
 
 🎓 **Final-Year B.Tech Cybersecurity Student**  
 🛡️ **Red Team Enthusiast | Blue Team Defender | SOC Analyst | Threat Hunter**  
-🔍 **Currently Reverse Engineering Web Apps & Malware in Sandbox Environments**  
+🔍 **Currently Red Teaming | Web Pentensting**  
 🧠 **Building Offensive + Defensive Tools that Actually Work™**
 
 ---
