@@ -43,7 +43,7 @@
 
 ---
 
-## 🛠️ // TECH STACK — TERMINAL MODE ACTIVATED
+## 🛠️ TECH STACK — TERMINAL MODE ACTIVATED
 
 ### 🔥 Offensive / Defensive Security
 [![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)](https://www.kali.org/)
