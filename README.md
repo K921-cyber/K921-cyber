@@ -12,7 +12,7 @@
 
 ---
 
-## 🧬 // SYSTEM STATUS: ONLINE
+## 🧬 SYSTEM STATUS: ONLINE
 > *"Security is not a product — it’s a continuous state of paranoia."*  
 > — *Adapted from Bruce Schneier*
 
