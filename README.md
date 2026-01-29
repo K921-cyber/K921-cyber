@@ -93,7 +93,7 @@
 
 - 📧 **Email**: [kabirchand31@gmail.com](mailto:kabirchand31@gmail.com)  
 - 💼 **LinkedIn**: [Kabir Chand](https://www.linkedin.com/in/kabir-chand-2ab869250)  
-- 🎯 **TryHackMe**: [K921](https://tryhackme.com/p/K921) *(if you have profile)*  
+- 🎯 **TryHackMe**: [K4b1rX](https://tryhackme.com/p/K4b1rX)  
 - 🌐 **Portfolio**: *// UNDER CONSTRUCTION — SIGNAL LOST* 🛠️  
   → *Launching with live demos + writeups soon!*
 
