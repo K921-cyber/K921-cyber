@@ -429,7 +429,7 @@ PID  004 | STATUS: [░░░░░░░░░░░░░] 00% | PRIORITY: MED
 | 📧 **Email** | [kabirchand31@gmail.com](mailto:kabirchand31@gmail.com) | 🟢 Active |
 | 💼 **LinkedIn** | [Kabir Chand](https://www.linkedin.com/in/kabir-chand-2ab869250) | 🟢 Active |
 | 🎯 **TryHackMe** | [K4b1rX](https://tryhackme.com/p/K4b1rX) | 🟢 Hunting |
-| 🖥️ **HackTheBox** | K921 | 🔄 Active |
+| 🖥️ **HackTheBox** | [K4b1rX](https://app.hackthebox.com/public/users/2459197) | 🔄 Active |
 | 🌐 **Portfolio** | Signal Lost — Rebuilding... | 🟡 Soon |
 
 <br/>
