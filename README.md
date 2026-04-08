@@ -284,7 +284,7 @@ PID  001 | STATUS: [████████░░] 80% | PRIORITY: HIGH
 
 ### 🧪 SOC Simulation Lab v0.2
 ```
-PID  002 | STATUS: [████░░░░░░] 40% | PRIORITY: HIGH
+PID  002 | STATUS: [░░░░░░░░░░░░] 0% | PRIORITY: HIGH
 ─────────────────────────────────────────────────────
 ◈ ELK Stack + Suricata + Zeek integration
 ◈ TheHive for case management
@@ -301,7 +301,7 @@ PID  002 | STATUS: [████░░░░░░] 40% | PRIORITY: HIGH
 
 ### 🐍 Malware Behavior Tracker
 ```
-PID  003 | STATUS: [██████░░░░] 60% | PRIORITY: MED
+PID  003 | STATUS: [░░░░░░░░░░] 0% | PRIORITY: MED
 ─────────────────────────────────────────────────────
 ◈ Python-based sandbox process monitor
 ◈ YARA rule matching engine
@@ -316,7 +316,7 @@ PID  003 | STATUS: [██████░░░░] 60% | PRIORITY: MED
 
 ### 📝 CTF Writeups Repository
 ```
-PID  004 | STATUS: [███░░░░░░░] 30% | PRIORITY: MED
+PID  004 | STATUS: [░░░░░░░░░░░░░] 00% | PRIORITY: MED
 ─────────────────────────────────────────────────────
 ◈ TryHackMe room walkthroughs
 ◈ HackTheBox machine writeups
