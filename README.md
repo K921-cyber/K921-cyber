@@ -397,7 +397,6 @@ PID  004 | STATUS: [░░░░░░░░░░░░░] 00% | PRIORITY: MED
 
 <!-- GitHub Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=K921-cyber&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7" />
-
 <br/>
 
 <!-- Activity Graph -->
