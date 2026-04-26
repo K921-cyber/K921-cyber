@@ -10,7 +10,7 @@
 <br/>
 
 <!-- ░░░ ANIMATED TYPING SVG ░░░ -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=20&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=900&height=50&lines=%5BROOT%40K921%5D+whoami+%E2%86%92+Kabir+Chand+%7C+Cybersecurity+Student;%5BROOT%40K921%5D+uname+-a+%E2%86%92+Red+Team+%7C+Blue+Team+%7C+Malware+Analysis;%5BROOT%40K921%5D+cat+%2Fetc%2Fmission+%E2%86%92+Hack+Ethically.+Build+Defensively.;%5BROOT%40K921%5D+grep+-r+passion+%2F+%E2%86%92+Cybersecurity+is+not+a+career%2C+its+a+calling.;%5BROOT%40K921%5D+sudo+recon+--target+everything+%E2%86%92+Always+learning..._%0A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=20&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=900&height=50&lines=%5BROOT%40K921-cyber%5D+whoami+%E2%86%92+Kabir+Chand+%7C+Cybersecurity+Student;%5BROOT%40K921%5D+uname+-a+%E2%86%92+Red+Team+%7C+Blue+Team+%7C+Malware+Analysis;%5BROOT%40K921%5D+cat+%2Fetc%2Fmission+%E2%86%92+Hack+Ethically.+Build+Defensively.;%5BROOT%40K921%5D+grep+-r+passion+%2F+%E2%86%92+Cybersecurity+is+not+a+career%2C+its+a+calling.;%5BROOT%40K921%5D+sudo+recon+--target+everything+%E2%86%92+Always+learning..._%0A" alt="Typing SVG" />
 
 <br/><br/>
 
