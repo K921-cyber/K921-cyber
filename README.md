@@ -89,14 +89,13 @@ class K921(CyberOperator):
 
     skills = {
         "offensive" : ["Web Pentesting", "Red Teaming",
-                       "OSINT", "Exploit Dev"],
+                       "OSINT", "Exploit Dev"]
         "defensive" : ["SOC Analysis", "Threat Hunting",
-                       "Malware Analysis", "IR"],
-        "dev"       : ["Python", "Flask", "Bash",
-                       "JavaScript"],
+                       "Malware Analysis", "IR"]
+        "dev"       : ["Python", "Flask", "Bash"]
     }
 
-    certs_in_progress = ["eJPT", "OSCP", "CEH"]
+    certs_planned = ["eJPT", "OSCP", "CEH"]
     goals = ["Bug Bounty HoF", "Build impactful tools"]
 
     philosophy = """
@@ -115,10 +114,10 @@ class K921(CyberOperator):
 ```
 [*] Active Web Penetration Testing
 [*] Red Team Tradecraft (MITRE ATT&CK)
-[*] SOC Simulation & Incident Response
 [*] Malware Behavior Analysis
 [*] Building Offensive Security Tools
 [*] CTF Grinding — THM & HTB
+[*] SOC Simulation & Incident Response
 ```
 
 ### ⚡ Quick Stats
@@ -126,7 +125,7 @@ class K921(CyberOperator):
 🏆  Certifications   →  2 (+ more incoming)
 🔬  Active Projects  →  3
 🌐  Platforms        →  THM | HTB | PicoCTF
-📚  Learning         →  eJPT → OSCP path
+📚  future certs     →  eJPT → OSCP path
 ☕  Fuel             →  Coffee + Curiosity
 ```
 
