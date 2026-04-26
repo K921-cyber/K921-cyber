@@ -365,7 +365,7 @@ PID  004 | STATUS: [░░░░░░░░░░░░░] 00% | PRIORITY: MED
 ✅  Network Traffic Analysis
 🔄  Threat Hunting Techniques
 🔄  Malware Behavioral Analysis
-🔄  ELK Stack Lab Setup
+⬜  ELK Stack Lab Setup
 ⬜  DFIR & Digital Forensics
 ⬜  Threat Intelligence Ops
 ⬜  CySA+ Certification
