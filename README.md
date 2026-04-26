@@ -55,7 +55,7 @@
 │  ╚██████╗██║  ██║██║  ██║██║ ╚████║██████╔╝                          │
 │   ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝                           │
 │                                                                      │
-│  OPERATOR  ──  Kabir Chand (K921)                                    │
+│  OPERATOR  ──  Kabir Chand (K921-cyber)                              │
 │  DEGREE    ──  B.Tech Cybersecurity — Final Year                     │
 │  ROLE      ──  Red Teamer | Pentester | SOC Analyst | Threat Hunter  │
 │  STATUS    ──  🟢 ONLINE — Operations Active                         |
